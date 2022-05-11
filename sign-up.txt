@@ -1,0 +1,9 @@
+let the user enter a UN
+let the user enter a PWD
+
+click on SIGN UP
+
+if this account doesnt exists 
+	create an account in DB using POST method
+else
+	throw a warning message 'user exists'
