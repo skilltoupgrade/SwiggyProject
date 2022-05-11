@@ -1,5 +1,5 @@
-let the user enter a UN
-let the user enter a PWD
+let the user enter a UN [min: 8 char ; max: 16 char]
+let the user enter a PWD [min: 8 char ; max: 16 char]
 
 click on SIGN UP
 
