@@ -7,3 +7,6 @@ if this account doesnt exists
 	create an account in DB using POST method
 else
 	throw a warning message 'user exists'
+
+
+// use comments for helping other collaborators
