@@ -1,0 +1,12 @@
+let the user enter a UN [min: 8 char ; max: 16 char]
+let the user enter a PWD [min: 8 char ; max: 16 char]
+
+click on SIGN UP
+
+if this account doesnt exists 
+	create an account in DB using POST method
+else
+	throw a warning message 'user exists'
+
+
+// use comments for helping other collaborators
