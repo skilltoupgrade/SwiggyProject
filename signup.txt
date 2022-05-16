@@ -7,3 +7,5 @@ if this account doesnt exists
 	create an account in DB using POST method
 else
 	throw a warning message 'user exists'
+
+// this code shall fix the production p1 bug
