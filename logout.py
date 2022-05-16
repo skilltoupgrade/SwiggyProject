@@ -4,4 +4,4 @@ if the user is logged in but session timed out ==> clicks on logout ==> throw th
 
 if the user is not logged in ==> clicks on logout ==> redirect him to login page
 
-// THIS CODE WILL FIX PRODUCTION BUG - FROM DIVYA
+// this is Kiran code that will fix logout production bug WILL FIX PRODUCTION BUG
