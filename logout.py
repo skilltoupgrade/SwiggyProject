@@ -3,3 +3,5 @@ if the user is logged in ==> clicks on logout ==> logout the user from DB/Sessio
 if the user is logged in but session timed out ==> clicks on logout ==> throw the message "session timed out"
 
 if the user is not logged in ==> clicks on logout ==> redirect him to login page
+
+// THIS CODE WILL FIX PRODUCTION BUG - FROM DIVYA
